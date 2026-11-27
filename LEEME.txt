@@ -1,7 +1,0 @@
-ACTIVA — App de actividad física
-
-Abre index.html en Chrome o Edge.
-
-Novedades: ilustraciones originales diferentes según actividad, rutinas guardadas en Perfil y pantalla de Perfil simplificada.
-
-La cuenta y los datos se almacenan localmente en el navegador: no es autenticación para producción.
